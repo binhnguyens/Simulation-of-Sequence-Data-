@@ -1,4 +1,4 @@
-# Simulation-of-Sequence-Data-
+# Simulation-of-Sequence-Data
 Computation in Genetic engineer - Repository to understand see how to sequence data with various methods
 
 In this repository, there are various files with the name starting with sim
